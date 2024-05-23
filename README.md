@@ -76,6 +76,22 @@ This difference in `Recommendation Score` and `Mean Score` warrants a deeper div
 ![image](https://github.com/isabhinav/HREngagement1/assets/130937665/fdd20607-d465-4fb2-aa46-ac923443ccea)
 
 
+##### _Correlation Analysis_
+ - Correlation analysis identifies the most strongly correlated pairs of engagement metrics within each gender group.
+ - This analysis also illustrates how different aspects of employee engagement are related within each group.
+ - For males, there is strong correlation between pairs such as SafeLearningEnvironment and WorkplaceAuthenticity (0.48) and WorkplaceAuthenticity and TrustInSeniorLeaders (0.42).
+ - For females, there is slight correlation between SafeLearningEnvironment and WorkplaceAuthenticity (0.25) and SafeLearningEnvironment and TrustInSeniorLeaders (0.21).
+ - Both male and female employees show a positive correlation between a safe learning environment and workplace authenticity, as well as between workplace authenticity and trust in senior leaders. However, these correlations are stronger for male employees.
+ - There is a gender-specific dynamic in how leadership values and learning environments interact. Male employees show a notable correlation between SafeLearningEnvironment and the perception that SeniorLeadersValueDifferences. This correlation does not appear in the top correlations for female employees.
+
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/6cea9203-971a-4f6c-ae88-6b3f97a726cb)
+
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/23f8387e-c0e7-4f75-9340-77d068b68ef8)
+
+
+
 
 
 
