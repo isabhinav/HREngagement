@@ -9,3 +9,10 @@ In this project, we utilize exploratory data analysis techniques in R to uncover
 ## Problem Statement
 The HR Manager is committed to ensuring that all employees feel equally engaged and valued. To achieve this, they need to understand the differences in engagement experiences between male and female employees. Help them uncover these insights, so we can create a more inclusive and satisfying work environment for everyone.
 
+## Data Description
+- Mock employee engagement survey dataset developed by Aaron Rodriguez.
+- Dataset includes 1,000 rows and 28 columns at the individual employee level.
+- Captures employees' perceptions and attitudes -  quantifying scores for metrics such as recommendation, engagement, satisfaction, leadership perception, and others.
+- Features a mix of numeric and categorical data types.
+- No missing values were reported in the dataset, indicating completeness and reliability for analysis.
+- Demographic variables include gender, race, department, and job level
