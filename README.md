@@ -11,8 +11,9 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 
 ## Data Description
 - Mock employee engagement survey dataset developed by Aaron Rodriguez.
-- Dataset includes 1,000 rows and 28 columns at the individual employee level.
+- The dataset includes 1,000 rows and 28 columns, representing the responses of all employees within the organization at the individual level.
 - Captures employees' perceptions and attitudes -  quantifying scores for metrics such as recommendation, engagement, satisfaction, leadership perception, and others.
 - Features a mix of numeric and categorical data types.
 - No missing values were reported in the dataset, indicating completeness and reliability for analysis.
 - Demographic variables include gender, race, department, and job level
+
