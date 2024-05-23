@@ -45,14 +45,25 @@ Focused on the summary table, visual techniques such as density plots, boxplots,
 - However, the `Mean Score` for males (3.90) is higher than for females (3.70), suggesting a difference in overall engagement and satisfaction levels.
 - This difference in `Mean Score` warrants a deeper dive into the responses of both genders. 
 
-This difference in `Recommendation Score` and `Mean Score` warrants a deeper dive into the responses of both genders. To explore these differences, visual methods such as boxplots, density plots, and heatmaps were employed to compare the engagement scores and perceptions between male and female employees.
+This difference in `Recommendation Score` and `Mean Score` warrants a deeper dive into the responses of both genders. To explore these differences, visual methods such as density plots, boxplots, and heatmaps were employed to compare the engagement scores and perceptions between male and female employees.
+
+##### _Density Plots_
+ - Density plots reveal disparities in the responses between genders, indicating distinct behavioral patterns across various metrics.
+ - We observe clear differences in survey responses for both groups, particularly in variables such as `TrustInSeniorLeaders`, `OpportunityForGrowth`, `RecognitionForContributions`, `WorkplaceAuthenticity` and `PersonalLifeFlexibility`.
+ - For example, we observe that female employees have a pronounced peak at lower scores for `RecognitionForContributions`, suggesting a need for improved recognition practices for females compared to their male counterparts.
+ 
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/0c9f8453-2b44-4ed1-9bf7-d4c8b97e2ec2)
+
 
 ##### _Boxplots_
- - Boxplots facilitated the detection of distribution disparities and outliers.
- - Notable outliers in `salary` boxplot suggest that a small number of employees have salaries significantly above the rest.
- - The `bonus` boxplot shows a similar pattern to salary, with most bonuses clustering at the lower end and some outliers indicating exceptionally high bonuses.
- - The `age` boxplot presents a relatively symmetrical distribution, indicating a balanced age range across the workforce. 
+ - Boxplots highlight differences in means and showcase the spread of the two groups, emphasizing disparities in their distributions.
+ - We observe that there are differences in means for variables such as `OverallSatisfaction`, `TrustInSeniorLeaders`, `RecognitionForContributions`, `SafeLearningEnvironment` and `BeliefInSurveyAction`.
+ - Most variables show overlapping interquartile ranges, indicating that despite differences in means, the middle 50% of responses for each gender often fall within similar ranges.
+ - Distibution of variables such as `OpportunityForGrowth` and `PersonalLifeFlexibility`, suggest that some respondents have significantly different experiences compared to the majority.
  
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/577b045d-cd39-4a93-831d-aef72ff75f49)
 
 
 
