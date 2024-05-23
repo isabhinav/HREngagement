@@ -67,6 +67,15 @@ This difference in `Recommendation Score` and `Mean Score` warrants a deeper div
 
 
 
+##### _Heatmaps_
+ - Heatmaps illustrate variations in the percentage of agreeable responses, highlighting the differing responses between genders.
+ - We observe stark difference in responses for `PersonalLifeFlexibility`, `OverallSatisfaction`, `OpportunityForGrowth`, `ManagerAutonomy` and `InformedByLeadership`.
+ - The disparities in the responses emphasize gender-specific variations, indicating different experiences between male and female employees.
+ 
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/fdd20607-d465-4fb2-aa46-ac923443ccea)
+
+
 
 
 
