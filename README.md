@@ -17,3 +17,25 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - No missing values were reported in the dataset, indicating completeness and reliability for analysis.
 - Demographic variables include gender, race, department, and job level
 
+## Exploratory Data Analysis
+Focused on the summary table, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis. Below are a few observations from the analysis.
+
+##### _Summary Table_
+
+| Gender | Count | Mean Recommendation Score | Median Recommendation Score | SD Recommendation Score | Percentage Agreeable | Overall Mean Score |
+|--------|-------|---------------------------|-----------------------------|-------------------------|----------------------|---------------------|
+| Female | 490   | 6.04                      | 6                           | 1.88                    | 90.41                | 3.70                |
+| Male   | 510   | 6.45                      | 7                           | 2.10                    | 91.18                | 3.90                |
+
+
+- Males have a slightly higher mean `recommendation score` (6.45) compared to females (6.04).
+
+- Summary table used to provide an overview of key engagement metrics by gender, enabling easy comparison and identification of disparities between male and female employees.
+- Survey includes responses from 490 female employees and 510 male employees, providing a balanced perspective across genders.
+- Male employees have a slightly higher mean recommendation score (6.45) compared to female employees (6.04), indicating a marginally higher likelihood of recommending the organization as a place to work.
+- Both genders exhibit high percentages of agreeable responses, with males at 91.18% and females at 90.41%, reflecting overall satisfaction. However, the overall mean score for males (3.90) is higher than for females (3.70), suggesting a difference in overall engagement and satisfaction levels.
+
+
+
+
+
