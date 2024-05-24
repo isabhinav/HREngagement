@@ -18,8 +18,8 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Demographic variables include gender, race, department, and job level
 
 ## Key Metrics
-- Recommendation Score: Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" Serves as a key indicator of employee satisfaction and engagement.
-- Percentage Agreeable: The percentage of responses that are 4 or higher on a 5-point scale. Helps in identifying the proportion of employees who have a positive perception of specific aspects of their work environment.
+- Recommendation score: Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" Serves as a key indicator of employee satisfaction and engagement.
+- Percentage agreeable: The percentage of responses that are 4 or higher on a 5-point scale. Helps in identifying the proportion of employees who have a positive perception of specific aspects of their work environment.
 - eNPS: Employee Net Promoter Score, calculated as the percentage of Promoters (scores 9-10) minus the percentage of Detractors (scores 0-6). Indicates overall employee loyalty and satisfaction.
 
 ## Data Preparation
@@ -89,6 +89,7 @@ To explore these differences, visual methods such as density plots, boxplots, an
  - The disparities in the responses emphasize gender-specific variations, indicating different experiences between male and female employees.
  
 
+To further understand the relationships between various metrics, correlation analysis is employed to explore the interactions between survey responses for male and female employees.
 
 ##### _Correlation Analysis_
 
@@ -114,6 +115,11 @@ To explore these differences, visual methods such as density plots, boxplots, an
 - **_Enhance Personal Life Flexibility_**: Both genders show low agreement in `PersonalLifeFlexibility`, with females significantly lower, suggesting the need for policies that support work-life balance.
 - **_Foster a Safe Learning Environment_**: There is a notable correlation between `SafeLearningEnvironment` and other engagement metrics, especially for males. Enhancing this aspect can have a positive ripple effect.
 - **_Increase Trust in Leadership_**: `TrustInSeniorLeaders` is strongly correlated with other positive engagement metrics. Initiatives to build and maintain trust can improve overall engagement.
+
+## Next Steps for Analysis
+- Identify key drivers of engagement for the groups. 
+- Extend the analysis to demographic categories such as race, department, and job level to identify disparities.
+- Can analyze intersections like gender and race (e.g., Black women) to uncover nuanced insights.
 
 ## Conclusion
 By leveraging data analysis techniques in R, we identified key areas where male and female employees have differing experiences and perceptions. These insights can guide strategic HR decisions to enhance overall employee satisfaction, address specific gender-based needs, and drive organizational success. 
