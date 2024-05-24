@@ -18,9 +18,9 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Demographic variables include gender, race, department, and job level
 
 ## Key Metrics
-- **_Mean Score_**: The average score given by employees across all survey questions. Provides general sense of employee sentiment and perception regarding different aspects of their work environment.
-- **_Recommendation Score_**: Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" Serves as a key indicator of employee satisfaction and engagement.
-- **_Percentage Agreeable_**: The percentage of responses that are 4 or higher on a 5-point scale. Helps in identifying the proportion of employees who have a positive perception of specific aspects of their work environment.
+- Recommendation Score: Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" Serves as a key indicator of employee satisfaction and engagement.
+- Percentage Agreeable: The percentage of responses that are 4 or higher on a 5-point scale. Helps in identifying the proportion of employees who have a positive perception of specific aspects of their work environment.
+- eNPS: Employee Net Promoter Score, calculated as the percentage of Promoters (scores 9-10) minus the percentage of Detractors (scores 0-6). Indicates overall employee loyalty and satisfaction.
 
 ## Data Preparation
 - Ensured there were no missing values in the dataset. 
