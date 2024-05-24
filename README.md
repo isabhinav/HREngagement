@@ -54,58 +54,54 @@ Focused on the summary table, visual techniques such as density plots, boxplots,
 - Summary table for eNPS provides an overview of promoters and detractors by gender.
 - The disparity in the number of promoters and detractors between genders underscores potential differences in employee experiences, highlighting specific issues in female employee engagement and satisfaction.
 - Addressing the concerns of female detractors could significantly enhance overall employee morale and eNPS scores since a larger proportion of females are dissatisfied with the organization (detractors).
+  
 
-##_This difference in mean recommendation scores, mean percentage agreeable responses, eNPS scores, and the percentage of promoters and detractors warrants a deeper dive into the responses of both genders._##
+**_This difference in mean recommendation scores, mean percentage agreeable responses, eNPS scores, and the percentage of promoters and detractors warrants a deeper dive into the responses of both genders._**
+
 
 To explore these differences, visual methods such as density plots, boxplots, and heatmaps are employed to compare the engagement scores and perceptions between male and female employees.
 
 ##### _Density Plots_
+ 
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/0c9f8453-2b44-4ed1-9bf7-d4c8b97e2ec2)
+
  - Density plots reveal disparities in the responses between genders, indicating distinct behavioral patterns across various metrics.
  - We observe clear differences in survey responses for both groups, particularly in variables such as `TrustInSeniorLeaders`, `OpportunityForGrowth`, `RecognitionForContributions`, `WorkplaceAuthenticity` and `PersonalLifeFlexibility`.
  - For example, we observe that female employees have a pronounced peak at lower scores for `RecognitionForContributions`, suggesting a need for improved recognition practices for females compared to their male counterparts.
- 
-
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/0c9f8453-2b44-4ed1-9bf7-d4c8b97e2ec2)
 
 
 ##### _Boxplots_
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/577b045d-cd39-4a93-831d-aef72ff75f49)
+
  - Boxplots highlight differences in means and showcase the spread of the two groups, emphasizing disparities in their distributions.
  - We observe that there are differences in means for variables such as `OverallSatisfaction`, `TrustInSeniorLeaders`, `RecognitionForContributions`, `SafeLearningEnvironment` and `BeliefInSurveyAction`.
  - Most variables show overlapping interquartile ranges, indicating that despite differences in means, the middle 50% of responses for each gender often fall within similar ranges.
  - Distibution of variables such as `OpportunityForGrowth` and `PersonalLifeFlexibility`, suggest that some respondents have significantly different experiences compared to the majority.
  
 
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/577b045d-cd39-4a93-831d-aef72ff75f49)
-
-
-
 ##### _Heatmaps_
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/8e1bac4a-efd5-49ab-b1ef-8d93153f87b0)
+
  - Heatmaps illustrate variations in the percentage of agreeable responses, highlighting the differing responses between genders.
  - We observe stark difference in responses for `PersonalLifeFlexibility`, `OverallSatisfaction`, `OpportunityForGrowth`, `ManagerAutonomy` and `InformedByLeadership`.
  - The disparities in the responses emphasize gender-specific variations, indicating different experiences between male and female employees.
  
 
 
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/8e1bac4a-efd5-49ab-b1ef-8d93153f87b0)
-
-
-
-
-
-
 ##### _Correlation Analysis_
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/6cea9203-971a-4f6c-ae88-6b3f97a726cb)
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/23f8387e-c0e7-4f75-9340-77d068b68ef8)
+
  - Correlation analysis identifies the most strongly correlated pairs of engagement metrics within each gender group.
  - This analysis also illustrates how different aspects of employee engagement are related within each group.
  - For males, there is strong correlation between pairs such as `SafeLearningEnvironment` and `WorkplaceAuthenticity` (0.48) and `WorkplaceAuthenticity` and `TrustInSeniorLeaders` (0.42).
  - For females, there is slight correlation between `SafeLearningEnvironment` and `WorkplaceAuthenticity` (0.25) and `SafeLearningEnvironment` and `TrustInSeniorLeaders` (0.21).
  - Both male and female employees show a positive correlation between a safe learning environment and workplace authenticity, as well as between workplace authenticity and trust in senior leaders. However, these correlations are stronger for male employees.
  - There is a gender-specific dynamic in how leadership values and learning environments interact. Male employees show a notable correlation between `SafeLearningEnvironment` and the perception that SeniorLeadersValueDifferences. This correlation does not appear in the top correlations for female employees.
-
-
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/6cea9203-971a-4f6c-ae88-6b3f97a726cb)
-
-
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/23f8387e-c0e7-4f75-9340-77d068b68ef8)
 
 
 
