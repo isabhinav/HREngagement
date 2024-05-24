@@ -55,7 +55,9 @@ Focused on the summary table, visual techniques such as density plots, boxplots,
 - The disparity in the number of promoters and detractors between genders underscores potential differences in employee experiences, highlighting specific issues in female employee engagement and satisfaction.
 - Addressing the concerns of female detractors could significantly enhance overall employee morale and eNPS scores since a larger proportion of females are dissatisfied with the organization (detractors).
 
-This difference in mean recommendation scores, mean percentage agreeable responses, eNPS scores, and the percentage of promoters and detractors warrants a deeper dive into the responses of both genders. To explore these differences, visual methods such as density plots, boxplots, and heatmaps are employed to compare the engagement scores and perceptions between male and female employees.
+##_This difference in mean recommendation scores, mean percentage agreeable responses, eNPS scores, and the percentage of promoters and detractors warrants a deeper dive into the responses of both genders._##
+
+To explore these differences, visual methods such as density plots, boxplots, and heatmaps are employed to compare the engagement scores and perceptions between male and female employees.
 
 ##### _Density Plots_
  - Density plots reveal disparities in the responses between genders, indicating distinct behavioral patterns across various metrics.
@@ -83,7 +85,12 @@ This difference in mean recommendation scores, mean percentage agreeable respons
  - The disparities in the responses emphasize gender-specific variations, indicating different experiences between male and female employees.
  
 
-![image](https://github.com/isabhinav/HREngagement1/assets/130937665/fdd20607-d465-4fb2-aa46-ac923443ccea)
+
+![image](https://github.com/isabhinav/HREngagement1/assets/130937665/8e1bac4a-efd5-49ab-b1ef-8d93153f87b0)
+
+
+
+
 
 
 ##### _Correlation Analysis_
