@@ -104,12 +104,10 @@ To explore these differences, visual methods such as density plots, boxplots, an
  - There is a gender-specific dynamic in how leadership values and learning environments interact. Male employees show a notable correlation between `SafeLearningEnvironment` and the perception that SeniorLeadersValueDifferences. This correlation does not appear in the top correlations for female employees.
 
 
-
 ## Observations 
 - Gender-specific variations exist in several key engagement metrics.
 - Targeted interventions in recognition, work-life balance, and leadership trust are necessary to ensure equity in employee experiences and improve engagement.
 
- 
 
 ## Recommendations  
 - **_Improve Recognition for Contributions_**: Female employees report lower recognition, indicating a need for better recognition practices targeting female employees.
