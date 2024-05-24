@@ -33,19 +33,29 @@ Focused on the summary table, visual techniques such as density plots, boxplots,
 
 ##### _Summary Table_
 
-| Gender | Count | Mean Recommendation Score | Median Recommendation Score | SD Recommendation Score | Percentage Agreeable |  Mean Score         |
-|--------|-------|---------------------------|-----------------------------|-------------------------|----------------------|---------------------|
-| Female | 490   | 6.04                      | 6                           | 1.88                    | 90.41                | 3.70                |
-| Male   | 510   | 6.45                      | 7                           | 2.10                    | 91.18                | 3.90                |
+| Gender | Count | Mean Recommendation Score | Median Recommendation Score | SD Recommendation Score | Mean Percentage Agreeable |  eNPS Score         |
+|--------|-------|---------------------------|-----------------------------|-------------------------|---------------------------|---------------------|
+| Female | 490   | 6.04                      | 6                           | 1.88                    | 56.93                     | -49.6               |
+| Male   | 510   | 6.45                      | 7                           | 2.10                    | 68.08                     | -32.0               |
 
 - Summary table used to provide an overview of key engagement metrics by gender.
 - Survey includes responses from 490 female employees and 510 male employees, providing a balanced perspective across genders.
 - Male employees have a slightly higher mean `Recommendation Score` (6.45) compared to female employees (6.04), indicating a marginally higher likelihood of recommending the organization as a place to work.
-- Both genders exhibit high percentages of agreeable responses, with males at 91.18% and females at 90.41%, reflecting overall satisfaction.
-- However, the `Mean Score` for males (3.90) is higher than for females (3.70), suggesting a difference in overall engagement and satisfaction levels.
-- This difference in `Mean Score` warrants a deeper dive into the responses of both genders. 
+- Both genders exhibit moderate levels of agreeable responses, with males at 56.93% and females at 68.08%, reflecting different levels of satisfaction.
 
-This difference in `Recommendation Score` and `Mean Score` warrants a deeper dive into the responses of both genders. To explore these differences, visual methods such as density plots, boxplots, and heatmaps were employed to compare the engagement scores and perceptions between male and female employees.
+##### _eNPS Summary Table_
+
+| Gender | Count | Promoters                 | Detractors                  | % Promoters             | % Detractors              |  eNPS Score         |
+|--------|-------|---------------------------|-----------------------------|-------------------------|---------------------------|---------------------|
+| Female | 490   | 42                        | 285                         | 8.57                    | 58.20                     | -49.6               |
+| Male   | 510   | 70                        | 233                         | 13.7                    | 45.70                     | -32.0               |
+
+ 
+- Summary table for eNPS provides an overview of promoters and detractors by gender.
+- The disparity in the number of promoters and detractors between genders underscores potential differences in employee experiences, highlighting specific issues in female employee engagement and satisfaction.
+- Addressing the concerns of female detractors could significantly enhance overall employee morale and eNPS scores since a larger proportion of females are dissatisfied with the organization (detractors).
+
+This difference in mean recommendation scores, mean percentage agreeable responses, eNPS scores, and the percentage of promoters and detractors warrants a deeper dive into the responses of both genders. To explore these differences, visual methods such as density plots, boxplots, and heatmaps are employed to compare the engagement scores and perceptions between male and female employees.
 
 ##### _Density Plots_
  - Density plots reveal disparities in the responses between genders, indicating distinct behavioral patterns across various metrics.
