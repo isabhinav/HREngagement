@@ -116,11 +116,10 @@ To further understand the relationships between various metrics, correlation ana
 - **_Foster a Safe Learning Environment_**: There is a notable correlation between `SafeLearningEnvironment` and other engagement metrics, especially for males. Enhancing this aspect can have a positive ripple effect.
 - **_Increase Trust in Leadership_**: `TrustInSeniorLeaders` is strongly correlated with other positive engagement metrics. Initiatives to build and maintain trust can improve overall engagement.
 
-## Next Steps for Analysis
+## Scope for future analysis
 - Identify key drivers of engagement for the groups. 
 - Extend the analysis to demographic categories such as race, department, and job level to identify disparities.
 - Can analyze intersections like gender and race (e.g., Black women) to uncover nuanced insights.
 
 ## Conclusion
-By leveraging data analysis techniques in R, we identified key areas where male and female employees have differing experiences and perceptions. These insights can guide strategic HR decisions to enhance overall employee satisfaction, address specific gender-based needs, and drive organizational success. 
-
+By leveraging summary tables, visual techniques, and correlation analysis, we identified key areas where male and female employees have differing experiences and perceptions. These insights can guide strategic HR decisions to enhance overall employee satisfaction, address specific gender-based needs, and drive organizational success.
