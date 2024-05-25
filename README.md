@@ -89,7 +89,7 @@ To explore these differences, visual methods such as density plots, boxplots, an
  - The disparities in the responses emphasize gender-specific variations, indicating different experiences between male and female employees.
  
 
-To further understand the relationships between various metrics, correlation analysis is employed to explore the interactions between survey responses for male and female employees.
+To further understand the relationships between various metrics, correlation analysis can be employed to explore the interactions between survey responses for male and female employees.
 
 ##### _Correlation Analysis_
 
@@ -106,7 +106,7 @@ To further understand the relationships between various metrics, correlation ana
 
 
 ## Observations 
-- Gender-specific variations exist in several key engagement metrics.
+- Gender-specific variations exist in responses to several survey questions.
 - Targeted interventions in recognition, work-life balance, and leadership trust are necessary to ensure equity in employee experiences and improve engagement.
 
 
