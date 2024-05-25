@@ -29,7 +29,7 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Split the data into its numerical subsets for applying correlation analysis.
 
 ## Data Analysis
-Ssummary tables, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis can be used to meaningfully explore such datasets. Below are a few observations from the analysis.
+Combination of Summary tables, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis can be used to explore such data meaningfully and solve similar problems on other datasets. Below are a few observations from the analysis.
 
 ##### _Summary Table_
 
