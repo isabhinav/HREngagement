@@ -29,7 +29,7 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Split the data into its numerical subsets for applying correlation analysis.
 
 ## Data Analysis
-Focused on the summary table, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis. Below are a few observations from the analysis.
+Ssummary tables, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis can be used to meaningfully explore such datasets. Below are a few observations from the analysis.
 
 ##### _Summary Table_
 
@@ -38,7 +38,7 @@ Focused on the summary table, visual techniques such as density plots, boxplots,
 | Female | 490   | 6.04                      | 6                           | 1.88                    | 56.93                     | -49.6               |
 | Male   | 510   | 6.45                      | 7                           | 2.10                    | 68.08                     | -32.0               |
 
-- Summary table used to provide an overview of key engagement metrics by gender.
+- Summary table provides an overview of key engagement metrics by gender.
 - Survey includes responses from 490 female employees and 510 male employees, providing a balanced perspective across genders.
 - Male employees have a slightly higher mean `Recommendation Score` (6.45) compared to female employees (6.04), indicating a marginally higher likelihood of recommending the organization as a place to work.
 - Both genders exhibit moderate levels of agreeable responses, with males at 56.93% and females at 68.08%, reflecting different levels of satisfaction.
