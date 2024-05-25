@@ -116,7 +116,7 @@ To further understand the relationships between various metrics, correlation ana
 - **_Foster a Safe Learning Environment_**: There is a notable correlation between `SafeLearningEnvironment` and other engagement metrics, especially for males. Enhancing this aspect can have a positive ripple effect.
 - **_Increase Trust in Leadership_**: `TrustInSeniorLeaders` is strongly correlated with other positive engagement metrics. Initiatives to build and maintain trust can improve overall engagement.
 
-## Scope for future analysis
+## Future Analysis Scope  
 - Identify key drivers of engagement for the groups. 
 - Extend the analysis to demographic categories such as race, department, and job level to identify disparities.
 - Can analyze intersections like gender and race (e.g., Black women) to uncover nuanced insights.
