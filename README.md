@@ -18,7 +18,7 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Demographic variables include gender, race, department, and job level
 
 ## Key Metrics
-- Recommendation score: Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" Serves as a key indicator of employee satisfaction and engagement.
+- Recommendation score: Serves as a key indicator of employee satisfaction and engagement. Comes directly from the question "On a scale of 0 to 10, how likely is it that you would recommend DataSkillUp as a place to work?" 
 - Percentage agreeable: The percentage of responses that are 4 or higher on a 5-point scale. Helps in identifying the proportion of employees who have a positive perception of specific aspects of their work environment.
 - eNPS: Employee Net Promoter Score, calculated as the percentage of Promoters (scores 9-10) minus the percentage of Detractors (scores 0-6). Indicates overall employee loyalty and satisfaction.
 
@@ -29,7 +29,7 @@ The HR Manager is committed to ensuring that all employees feel equally engaged 
 - Split the data into its numerical subsets for applying correlation analysis.
 
 ## Data Analysis
-Combination of Summary tables, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis can be used to explore such data meaningfully and solve similar problems on other datasets. Below are a few observations from the analysis.
+Combination of summary tables, visual techniques such as density plots, boxplots, heatmaps, and correlation analysis can be used to explore such data meaningfully and solve similar problems on other datasets. Below are a few observations from the analysis.
 
 ##### _Summary Table_
 
